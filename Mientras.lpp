@@ -1,0 +1,17 @@
+entero num
+
+inicio
+   num<-0
+   
+   Mientras num< 10 Haga
+   num <-num+1
+   escriba num
+   llamar nueva_linea
+   
+   Fin Mientras
+
+
+
+
+
+fin
